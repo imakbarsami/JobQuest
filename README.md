@@ -74,7 +74,7 @@ MAIL_FROM_NAME="${APP_NAME}"
    <img src="https://github.com/user-attachments/assets/c12f2835-4783-476a-9cef-1df03b9c224a" alt="Image description">
     <h4 align="center">Job Details </h4>
      <img src="https://github.com/user-attachments/assets/aed57d5f-3344-44a6-aa68-f9e6234dbb04" alt="Image description">
-      <h4 align="center">Profile </h4>
+      <h4 align="center">My Account </h4>
        
 
   <h2>📁 SQL File and Admin Credentials</h2>
