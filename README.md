@@ -63,15 +63,17 @@ MAIL_FROM_NAME="${APP_NAME}"
   <p>The website is live and accessible at: 🌐 <a href="https://jobquest.wuaze.com/" target="_blank">JobQuest</a></p>
 
   <h2>🖼️ Output Examples</h2>
-   <img src="https://github.com/user-attachments/assets/685f556e-e4dc-410d-be1d-cfc537140f50" alt="Image description">
+   <img src="https://github.com/user-attachments/assets/729a7ffe-6100-465f-bce3-c37bab537f69" alt="Image description">
+   
+
    <h4 align="center">Dashboard </h4>
-   <img src="https://github.com/user-attachments/assets/0a5408a4-36db-4286-a3bd-c86eb64af447" alt="Image description">
+   <img src="https://github.com/user-attachments/assets/42eda61e-c992-4069-9d72-e76ec080b27c" alt="Image description">
    <h4 align="center">Home</h4>
-   <img src="https://github.com/user-attachments/assets/e3e6b1e0-cce8-4382-b4fd-277a7b35b264" alt="Image description">
+   <img src="https://github.com/user-attachments/assets/bdec7f3e-141e-4474-983a-c15de1490ffb" alt="Image description">
    <h4 align="center">Jobs</h4>
-   <img src="https://github.com/user-attachments/assets/0dcb154e-5c12-4630-bcec-94292996c018" alt="Image description">
+   <img src="https://github.com/user-attachments/assets/c12f2835-4783-476a-9cef-1df03b9c224a" alt="Image description">
     <h4 align="center">Job Details </h4>
-     <img src="https://github.com/user-attachments/assets/25e567ba-42c6-4e2d-b54f-a374cccdf1d0" alt="Image description">
+     <img src="https://github.com/user-attachments/assets/aed57d5f-3344-44a6-aa68-f9e6234dbb04" alt="Image description">
       <h4 align="center">Profile </h4>
        
 
