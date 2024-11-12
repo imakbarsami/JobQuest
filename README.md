@@ -108,7 +108,7 @@ Admin Password: admin1234
   <h2>🙌 Feel Free to Contribute!</h2>
   <p>If you like the project, feel free to fork it and contribute by adding new features, improving code quality, or fixing bugs. Every contribution is welcome, and I'd love to see how you improve JobQuest! 🎉</p>
 
-  <h2>🙏 Thanks for Looking at My Repository</h2>
+  <h2>🎉 Thanks for Looking at My Repository</h2>
   <p>I hope you find JobQuest useful for building your own job portal, or perhaps just as a reference for your learning! Thank you for taking the time to explore the code. 🚀</p>
 
   <p>Feel free to reach out if you have any questions or suggestions. Enjoy using JobQuest! 😊</p>
